@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CURRIC Joao</title>
+</head>
+
+<body>
+<h1>Aluno: João Lucas De C.</h1>
+<h2>Contato</h2> 
+</body>
+
+<head>
+    <strong>E-mail:</strong> joao.castro@estudante.ifto.edu.br
+<br>
+<strong>Telefone:</strong> +556399268-3551
+<br>
+<strong>Instagram:</strong> joao.cstro9
+<br>
+<strong>GitHub:</strong> joaolucas2info
+<hr>
+</head>
+
+<head>
+<article>Olá , busco portunidade de estágio na área de desenvolvimento vou para aplicar e
+    expandir meus conhecimentos técnicos e habilidades de programação.</article> 
+
+     <br> 
+
+    <ul>
+    
+            <h2>Tecnologias Web:</h2>
+       
+    
+            1.Linguagens:HTML and Python
+            <br>
+            2.Frameworks Frontend: Reactjs
+            <br>
+            3.Ferramenta de controle de Versão: GitHub
+           <br>
+            4.Editores de texto: Visual Studio Code
+
+   </ul>
+     
+</head>
+
+<head>
+<ul>   <h2>Idiomas:</h2>
+    Português (nativo)
+ </ul>
+ 
+</head>
+
+
+<head>
+<ul><h2>Projetos:</h2></ul>
+
+E-commerce Website (Projeto Acadêmico)
+<br>
+<dd>Desenvolvimento completo de um site de comércio eletrônico utilizando HTML e CSS.
+    Implementação de funcionalidades como autenticação de usuário e carrinho de compras.
+</dd>
+Blog pessoal (Projeto pessoal)
+  
+  <dd>Criação de um blog  estático utilizando HTML e CSS</dd>
+
+
+</head>
+
+</html> 
