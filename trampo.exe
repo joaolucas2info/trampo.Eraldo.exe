@@ -22,9 +22,47 @@
 <hr>
 </head>
 
+<img src="C:\Users\202310210027\Desktop\eraldo\euu.jpg" width="200" height="200">
 <head>
 <article>Olá , busco portunidade de estágio na área de desenvolvimento vou para aplicar e
-    expandir meus conhecimentos técnicos e habilidades de programação.</article> 
+    expandir meus conhecimentos técnicos e habilidades de programação.</article>
+    
+    <head>
+        <meta charset="uft-8">
+        <title> Projetos</title>
+        </head>
+    <body>
+        <a href="pagprojetos.html" target="_blank">
+          <img src="C:\Users\202310210027\curriculolucas\seta.png" width="50" height="50"> Projetos</a> 
+    </body>
+  
+    <head>
+      <meta charset="uft-8">
+      <title> Documentos</title>
+      </head>
+  <body>
+      <a href="documentos.html" target="_blank">
+        <img src="C:\Users\202310210027\curriculolucas\seta.png" width="50" height="50">Documentos</a>
+  </body>
+  
+  <head>
+    <meta charset="uft-8">
+    <title> Formulários</title>
+    </head>
+  <body>
+    <a href="formularios.html" target="_blank">
+      <img src="C:\Users\202310210027\curriculolucas\seta.png" width="50" height="50">Formulários</a>
+  </body>
+  
+  <head>
+    <meta charset="uft-8">
+    <title> Outros</title>
+    </head>
+  <body>
+    <a href="outros.html" target="_blank">
+      <img src="C:\Users\202310210027\curriculolucas\seta.png" width="50" height="50">Outros</a>
+  </body>
+  
 
      <br> 
 
@@ -64,8 +102,45 @@ E-commerce Website (Projeto Acadêmico)
 Blog pessoal (Projeto pessoal)
   
   <dd>Criação de um blog  estático utilizando HTML e CSS</dd>
+  
+  <br>
+
+<table border="1">
+   
+<tr>
+
+<td>Empresa</td>
+<td>Cargo</td>
+<td>Tempo de Exp</td>  
+
+</tr>
+
+<tr>
+<td>Empresa A</td>
+<td>Estagiario</td>
+<td>6 meses</td>
+
+</tr>
+
+
+<tr>
+
+<td>Empresa B</td>
+<td>Estagiario</td>
+<td>6 meses</td>
+
+</tr>
+
+  </table>
+<br>
+
+<textarea name="Come    nte" id="Caixa" cols="30" rows="5"></textarea>
+<br>
+
+  <button>Sem função</button>
 
 
 </head>
+
 
 </html> 
